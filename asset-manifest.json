@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/commsworth/static/css/main.6649b116.chunk.css",
+    "main.js": "/commsworth/static/js/main.b6c535be.chunk.js",
+    "main.js.map": "/commsworth/static/js/main.b6c535be.chunk.js.map",
+    "runtime-main.js": "/commsworth/static/js/runtime-main.ef63a2d1.js",
+    "runtime-main.js.map": "/commsworth/static/js/runtime-main.ef63a2d1.js.map",
+    "static/js/2.2409725b.chunk.js": "/commsworth/static/js/2.2409725b.chunk.js",
+    "static/js/2.2409725b.chunk.js.map": "/commsworth/static/js/2.2409725b.chunk.js.map",
+    "index.html": "/commsworth/index.html",
+    "precache-manifest.70921d3dd15a7ce351161978c3d095fc.js": "/commsworth/precache-manifest.70921d3dd15a7ce351161978c3d095fc.js",
+    "service-worker.js": "/commsworth/service-worker.js",
+    "static/css/main.6649b116.chunk.css.map": "/commsworth/static/css/main.6649b116.chunk.css.map",
+    "static/js/2.2409725b.chunk.js.LICENSE.txt": "/commsworth/static/js/2.2409725b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef63a2d1.js",
+    "static/js/2.2409725b.chunk.js",
+    "static/css/main.6649b116.chunk.css",
+    "static/js/main.b6c535be.chunk.js"
+  ]
+}
