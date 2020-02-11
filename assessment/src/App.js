@@ -14,7 +14,7 @@ class App extends Component {
   render(){
   return (
     <AuthProvider>
-      <Router basename="/commsworth">
+      <Router basename={"/commsworth"}>
         <Header />
         <Switch>
         <AuthRoute exact path='/' component={Login}/>
